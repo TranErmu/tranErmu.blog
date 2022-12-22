@@ -1,3 +1,3 @@
 # tranErmu.github.io
 
-this is
+this is a blog test
